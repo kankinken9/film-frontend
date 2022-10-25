@@ -1,3 +1,4 @@
+Please first conform your server URL link in file /src/hooks/useAjax.js
 
 BackEnd
 https://github.com/kankinken9/film-backend
